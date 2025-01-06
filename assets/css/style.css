@@ -1,3 +1,11 @@
+/* import Inter and Macodo from google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Macondo&display=swap');
+
 body {
     background-color: antiquewhite;
+    font-family: "Inter", sans-serif;
+}
+
+h1 {
+    font-family: "Macondo";
 }
